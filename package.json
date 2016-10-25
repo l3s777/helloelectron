@@ -1,0 +1,19 @@
+{
+  "name": "helloworldelectron",
+  "version": "1.0.0",
+  "description": "hello world electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l3s777/helloelectron.git"
+  },
+  "author": "@leslysandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l3s777/helloelectron/issues"
+  },
+  "homepage": "https://github.com/l3s777/helloelectron#readme"
+}
